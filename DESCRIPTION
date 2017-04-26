@@ -5,7 +5,7 @@ Version: 0.1.0
 Authors@R: person("Petr", "Simecek", email = "simecek@gmail.com", role = c("aut", "cre"))
 Description: Data package with full texts for Karel Capek's 6 completed novels (in Czech), 
     ready for text analysis. These novels are "Tovarna na absolutno", "Krakatit",
-    "Hordubal", "Povetron", "Obecejny zivot", and "Valka s mloky". The package is highly
+    "Hordubal", "Povetron", "Obycejny zivot", and "Valka s mloky". The package is highly
     inspired by Julia Silge's package `janeaustenr`.
 URL: https://github.com/simecek/capek
 BugReports: https://github.com/simecek/capek/issues
