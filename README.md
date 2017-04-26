@@ -4,7 +4,7 @@
 
 This package provides access to the full texts of six Czech novels of
 [Karel Čapek](https://en.wikipedia.org/wiki/Karel_%C4%8Capek), Czech writer best known for his play R.U.R. which introduced the word 
-[robot](https://en.wikipedia.org/wiki/Robot). It is more than inspired
+[robot](https://en.wikipedia.org/wiki/Robot). It is more than just inspired
 by Julia Silge's [janeaustenr package](https://github.com/juliasilge/janeaustenr). The package is intended to
 provide non-english corpus for an experimenting with tidy text analysis. 
 
